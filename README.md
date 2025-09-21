@@ -1,5 +1,6 @@
 # WebView2MFC
 How to use a WebView2 control in an MFC dialog application
+
 I could not find a single example of how to implement a WebView2 in MFC. Even the official Microsoft Webview2 examples have it for WPF, Win32, UWP etc. but not for MFC. So I looked up the current solutions and customized them for use in MFC.
 
 In this sample, the dialog contains the browser a textbox to type in a URL and a button to navigate to the url.
